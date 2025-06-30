@@ -379,6 +379,7 @@ function App() {
           
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
             <p>&copy; 2025 Ley. All rights reserved.</p>
+            <p>&copy; Developed by WWSD Software - CNPJ 59.696.374/0001-36</p>
           </div>
         </div>
       </footer>

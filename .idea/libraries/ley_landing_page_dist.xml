@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ley-landing-page-dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ley-landing-page-dist.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
